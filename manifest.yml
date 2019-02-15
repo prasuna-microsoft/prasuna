@@ -1,0 +1,4 @@
+---
+applications:
+- name: prasuna
+  buildpack: staticfile_buildpack
